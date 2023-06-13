@@ -1,1 +1,1 @@
-*Assignment for AccuKnox
+Assignment for AccuKnox
